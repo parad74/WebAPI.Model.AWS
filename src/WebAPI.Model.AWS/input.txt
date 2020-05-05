@@ -1,0 +1,1 @@
+Table batch reads and writes Delta Lake supports most of the options provided by Apache Spark DataFrame
