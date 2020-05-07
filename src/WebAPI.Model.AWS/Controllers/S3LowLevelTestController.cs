@@ -24,8 +24,6 @@ namespace WebAPI.Model.AWS
 		private readonly ILogger<S3LowLevelTestController> _logger;
 		private IAmazonS3 _s3Client;
 		private IAWSSettings _awsSettings;
-		//string _accessKey = "AKIAZKLXKAKGCIG5FZOH";
-		//string _secretKey = "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";
 		string _bucketName = "test4eaet1";
 		string _defaultFolder = "my-folder";
 		public S3LowLevelTestController(

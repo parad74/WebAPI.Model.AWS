@@ -21,8 +21,8 @@ namespace WebAPI.Model.AWS.Constant
 		public AWSSettings()
 		{
 			this.Region = @"eu-east-1";
-			this.AccessKey = @"AKIAZKLXKAKGCIG5FZOH";
-			this.SecretKey = @"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";
+			this.AccessKey = @"A_K_I_A_Z_KLXKAKGCIG5FZOH";
+			this.SecretKey = @"D_4_U_9_z_KHRxqfSFUdrKGmDYbdhlJDIaS+NIGxEKtKV";
 		}
 		public void Validate()
 		{
